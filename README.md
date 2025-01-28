@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Hareem Fatima 👋
 
-<!--
-**hareemfatima1/hareemfatima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **BSIT student** in my final semester at **PUCIT**. I’m driven by a love for technology and problem-solving, always eager to learn new skills and explore innovative solutions.
 
-Here are some ideas to get you started:
+### 🌱 I’m interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web development** 
+- **AI and Machine Learning**
+
+### 👯 I’m looking to collaborate on:
+
+- Web and mobile app projects, especially in **AI**, **Machine Learning**
+- Open-source contributions to tech projects!
+
+### 📫 How to reach me:
+
+- Feel free to connect with me on **https\://www\.linkedin.com/in/hareem-fatima-b2681a294/** or send me an email at **[hareem06fatima@gmail.com](mailto\:hareem06fatima@gmail.com)**
+
+---
+
+Thanks for visiting my profile! Let’s build something awesome together! 💻🚀
