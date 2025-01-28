@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate **BSIT student** in my final semester at 
 
 ### 📫 How to reach me:
 
-- Feel free to connect with me on **https\://www\.linkedin.com/in/hareem-fatima-b2681a294/** or send me an email at **[hareem06fatima@gmail.com](mailto\:hareem06fatima@gmail.com)**
+- Feel free to connect with me on **Linkedln** or send me an email at **[hareem06fatima@gmail.com](mailto\:hareem06fatima@gmail.com)**
 
 ---
 
